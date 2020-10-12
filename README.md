@@ -1,2 +1,2 @@
-# -est-tasks-from-vacancies
+# -Test-tasks-from-vacancies
 Мои тестовые работы с вакансий
